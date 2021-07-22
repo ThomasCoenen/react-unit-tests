@@ -8,4 +8,5 @@ To run the tests open 2 different terminals
 
 2nd terminal run: 
 
-    npm test  (this runs the unit tests and gives you feedback on your tests & whether or not they passed or failed)
+    npm test  (this runs the unit tests and gives you feedback on your tests & whether 
+        or not they passed or failed)
